@@ -14,3 +14,5 @@ git status --> here the example of for the the tracked file like below
         	new file:   gitcommands) 
 git diff --> show the difference what are changes has been made compare with the previous commit
 git add . --> here dot reperesent all files have to commit
+git remote -v --> show the remote repo 
+git remote add "remote url" --> adding the remote repo here
