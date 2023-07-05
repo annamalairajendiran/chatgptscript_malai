@@ -20,3 +20,5 @@ git log --> git logs will show you the details of the commit
 git commit -m "here your message" --> this command will be used after the git add commmand to commit a changes with a message
 git branch --> this command will create a new branch
 git checkout -b branchname --> this command also will use to crate a new branch {able to swith the branch after the commit in the current branch only}
+git branch branchname --> to create a new branch here you have to replace branch name "branchname"
+git checkout branchname --> this command will switch to the branch
