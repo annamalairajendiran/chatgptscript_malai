@@ -16,3 +16,7 @@ git diff --> show the difference what are changes has been made compare with the
 git add . --> here dot reperesent all files have to commit
 git remote -v --> show the remote repo 
 git remote add "remote url" --> adding the remote repo here
+git log --> git logs will show you the details of the commit
+git commit -m "here your message" --> this command will be used after the git add commmand to commit a changes with a message
+git branch --> this command will create a new branch
+git checkout -b branchname --> this command also will use to crate a new branch {able to swith the branch after the commit in the current branch only}
