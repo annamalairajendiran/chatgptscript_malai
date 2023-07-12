@@ -22,3 +22,10 @@ git branch --> this command will create a new branch
 git checkout -b branchname --> this command also will use to crate a new branch {able to swith the branch after the commit in the current branch only}
 git branch branchname --> to create a new branch here you have to replace branch name "branchname"
 git checkout branchname --> this command will switch to the branch
+git branch subbranch --> to create a subbranch
+git branch --> to display the brach
+git checkout subbranch --> switch the subbranch
+git branch -a --> shows the local and remote branch 
+git branch -m subbranch renamebranch --> rename the branch name 
+git log --> 
+git branch -d sourcebranchrename --> to delete the partichular branch
