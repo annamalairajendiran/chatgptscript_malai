@@ -33,6 +33,15 @@ git checkout -b -->what ever code is there we can create branch from there.(exam
 		What ever commit in the brach it will not refelect in other branch
 git log renamebranch  --> it will show the log with commit id, 
 git cherry-pick fc2377ae4dcd0a01c8b7f458cc18f363e4362a3f --> select the commit ID from the log now it will include with the master branch
+ git log --oneline --> this command will show git log in a single command
+example : |------------------------------------------|
+root@DESKTOP-55D7P74:~/malai_education# git log --oneline
+fc2377a (HEAD -> renamebranch) add the test file for testing the branch
+8916401 testfor commit file subbranch
+9e53718 (origin/master) added tocken
+b197a69 upload testion to github
+root@DESKTOP-55D7P74:~/malai_education#
+|----------------------------------------------------------------------------|
 
 
 
