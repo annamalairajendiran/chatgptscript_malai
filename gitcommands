@@ -75,8 +75,7 @@ git commit --amend --> Change most recent Git commit message [Don’t amend publ
 git pull --> The git pull command is actually a combination of two other commands, git fetch followed by git merge
 git rebase --> it will combain the master/orgin branch to the sub brach and the sub branch will keep on sync with master/orgin brach(it has to executed in subbranch)
 git merge --> it will merge subbrach commits to the main/master/orgin branch its has to run it the master/main/orgin branch
-
-
+git ls-files --> it will shows the commit file in the current branch
 
 
 
