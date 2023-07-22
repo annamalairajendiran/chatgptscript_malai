@@ -38,7 +38,7 @@ example : |------------------------------------------|
 root@DESKTOP-55D7P74:~/malai_education# git log --oneline
 fc2377a (HEAD -> renamebranch) add the test file for testing the branch
 8916401 testfor commit file subbranch
-9e53718 (origin/master) added tocken
+9e53718 (origin/master) added token
 b197a69 upload testion to github
 root@DESKTOP-55D7P74:~/malai_education#
 |----------------------------------------------------------------------------|
@@ -60,7 +60,7 @@ stash@{0}: WIP on rebase: 92d4c20 for example commit for stash
 stash@{1}: WIP on rebase: 31673fb the test file added for check rebase function
 ------------------------------------------------------------
 
-git stash clear --> you can delete all of your stashes 
+git stash clear --> You can delete all of your stashes 
 
 <<<Example>>>
 ------------------------------------------------------------
@@ -76,6 +76,16 @@ git pull --> The git pull command is actually a combination of two other command
 git rebase --> it will combain the master/orgin branch to the sub brach and the sub branch will keep on sync with master/orgin brach(it has to executed in subbranch)
 git merge --> it will merge subbrach commits to the main/master/orgin branch its has to run it the master/main/orgin branch
 git ls-files --> it will shows the commit file in the current branch
+
+Have to do practice
+---------------------
+
+git reset -->
+git restore -->
+for changing the header postion -->
+for changing the pull and push repo -->
+for changing the remote repo -->
+
 
 
 
