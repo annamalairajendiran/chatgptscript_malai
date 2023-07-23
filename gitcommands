@@ -29,6 +29,16 @@ git branch -a --> shows the local and remote branch
 git branch -m subbranch renamebranch --> rename the branch name 
 git log --> 
 git branch -d sourcebranchrename --> to delete the partichular branch
+example for delete branch
+
+-------------------------
+
+root@DESKTOP-55D7P74:~/github_tutorial# git branch -D electrichonda
+Deleted branch electrichonda (was 9776410).
+root@DESKTOP-55D7P74:~/github_tutorial#
+
+-----------------------------------
+
 git checkout -b -->what ever code is there we can create branch from there.(example : git checkout -b branchname)
 		What ever commit in the brach it will not refelect in other branch
 git log renamebranch  --> it will show the log with commit id, 
